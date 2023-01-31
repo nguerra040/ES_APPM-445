@@ -1,0 +1,113 @@
+﻿Method,N,Epsilon,Omega,Number of Iterations
+Point Jacobi,16,1,N/A,937
+Weighted Jacobi,16,1,0.99,946
+Gauss-Seidel,16,1,N/A,468
+Red-Black Gauss-Seidel,16,1,N/A,468
+SOR,16,1,1.69,52
+SSOR,16,1,1.73,64
+Kaczmarz,16,1,N/A,1
+Point Jacobi,16,0.1,N/A,937
+Weighted Jacobi,16,0.1,0.99,946
+Gauss-Seidel,16,0.1,N/A,468
+Red-Black Gauss-Seidel,16,0.1,N/A,468
+SOR,16,0.1,1.69,52
+SSOR,16,0.1,1.71,78
+Kaczmarz,16,0.1,N/A,1
+Point Jacobi,16,0.01,N/A,937
+Weighted Jacobi,16,0.01,0.99,947
+Gauss-Seidel,16,0.01,N/A,468
+Red-Black Gauss-Seidel,16,0.01,N/A,468
+SOR,16,0.01,1.7,50
+SSOR,16,0.01,1.69,84
+Kaczmarz,16,0.01,N/A,1
+Point Jacobi,16,0.001,N/A,938
+Weighted Jacobi,16,0.001,0.99,947
+Gauss-Seidel,16,0.001,N/A,468
+Red-Black Gauss-Seidel,16,0.001,N/A,468
+SOR,16,0.001,1.7,49
+SSOR,16,0.001,1.69,84
+Kaczmarz,16,0.001,N/A,1
+Point Jacobi,32,1,N/A,3550
+Weighted Jacobi,32,1,0.99,3585
+Gauss-Seidel,32,1,N/A,1774
+Red-Black Gauss-Seidel,32,1,N/A,1774
+SOR,32,1,1.83,98
+SSOR,32,1,1.85,127
+Kaczmarz,32,1,N/A,1
+Point Jacobi,32,0.1,N/A,3550
+Weighted Jacobi,32,0.1,0.99,3585
+Gauss-Seidel,32,0.1,N/A,1774
+Red-Black Gauss-Seidel,32,0.1,N/A,1774
+SOR,32,0.1,1.83,97
+SSOR,32,0.1,1.84,153
+Kaczmarz,32,0.1,N/A,1
+Point Jacobi,32,0.01,N/A,3550
+Weighted Jacobi,32,0.01,0.99,3586
+Gauss-Seidel,32,0.01,N/A,1775
+Red-Black Gauss-Seidel,32,0.01,N/A,1775
+SOR,32,0.01,1.83,94
+SSOR,32,0.01,1.83,165
+Kaczmarz,32,0.01,N/A,1
+Point Jacobi,32,0.001,N/A,3551
+Weighted Jacobi,32,0.001,0.99,3586
+Gauss-Seidel,32,0.001,N/A,1775
+Red-Black Gauss-Seidel,32,0.001,N/A,1775
+SOR,32,0.001,1.83,94
+SSOR,32,0.001,1.83,167
+Kaczmarz,32,0.001,N/A,1
+Point Jacobi,64,1,N/A,13792
+Weighted Jacobi,64,1,0.99,13932
+Gauss-Seidel,64,1,N/A,6896
+Red-Black Gauss-Seidel,64,1,N/A,6896
+SOR,64,1,1.92,199
+SSOR,64,1,1.92,251
+Kaczmarz,64,1,N/A,1
+Point Jacobi,64,0.1,N/A,13792
+Weighted Jacobi,64,0.1,0.99,13932
+Gauss-Seidel,64,0.1,N/A,6896
+Red-Black Gauss-Seidel,64,0.1,N/A,6896
+SOR,64,0.1,1.92,210
+SSOR,64,0.1,1.92,304
+Kaczmarz,64,0.1,N/A,1
+Point Jacobi,64,0.01,N/A,13793
+Weighted Jacobi,64,0.01,0.99,13933
+Gauss-Seidel,64,0.01,N/A,6896
+Red-Black Gauss-Seidel,64,0.01,N/A,6896
+SOR,64,0.01,1.91,190
+SSOR,64,0.01,1.91,328
+Kaczmarz,64,0.01,N/A,1
+Point Jacobi,64,0.001,N/A,13793
+Weighted Jacobi,64,0.001,0.99,13933
+Gauss-Seidel,64,0.001,N/A,6896
+Red-Black Gauss-Seidel,64,0.001,N/A,6896
+SOR,64,0.001,1.91,189
+SSOR,64,0.001,1.91,331
+Kaczmarz,64,0.001,N/A,1
+Point Jacobi,128,1,N/A,54346
+Weighted Jacobi,128,1,0.99,54895
+Gauss-Seidel,128,1,N/A,27172
+Red-Black Gauss-Seidel,128,1,N/A,27172
+SOR,128,1,1.97,560
+SSOR,128,1,1.96,500
+Kaczmarz,128,1,N/A,1
+Point Jacobi,128,0.1,N/A,54346
+Weighted Jacobi,128,0.1,0.99,54895
+Gauss-Seidel,128,0.1,N/A,27172
+Red-Black Gauss-Seidel,128,0.1,N/A,27172
+SOR,128,0.1,1.96,437
+SSOR,128,0.1,1.96,608
+Kaczmarz,128,0.1,N/A,1
+Point Jacobi,128,0.01,N/A,54347
+Weighted Jacobi,128,0.01,0.99,54896
+Gauss-Seidel,128,0.01,N/A,27173
+Red-Black Gauss-Seidel,128,0.01,N/A,27173
+SOR,128,0.01,1.96,415
+SSOR,128,0.01,1.95,654
+Kaczmarz,128,0.01,N/A,1
+Point Jacobi,128,0.001,N/A,54347
+Weighted Jacobi,128,0.001,0.99,54896
+Gauss-Seidel,128,0.001,N/A,27173
+Red-Black Gauss-Seidel,128,0.001,N/A,27173
+SOR,128,0.001,1.96,417
+SSOR,128,0.001,1.95,660
+Kaczmarz,128,0.001,N/A,1
